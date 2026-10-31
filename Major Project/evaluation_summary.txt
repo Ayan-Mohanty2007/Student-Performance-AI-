@@ -1,0 +1,7 @@
+Dataset: synthetic, 1200 rows
+Train rows: 960
+Test rows: 240
+Random Forest accuracy: 0.6125
+Random Forest macro-F1: 0.5074
+Majority baseline accuracy: 0.5417
+Random state: 42
